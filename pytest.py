@@ -1,1 +1,2 @@
-print("SSA18")
+a=input("Are you Hungry")
+print(a)
